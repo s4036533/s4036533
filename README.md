@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @s4036533
+- 👋 Hi, I’m AGA. An ENTRY-LEVEL FRONT-END PROGRAMMER currently studying in RMIT University, Melbourne
 - 👀 I’m interested in ANYTHING CREATIVE-RELATED
 - 🌱 I’m currently learning FRONT-END PROGRAMMING
 - 💞️ I’m looking to collaborate on ...
